@@ -497,4 +497,7 @@
         <item>com.crdroid.device.DeviceSettings.KeyHandler</item>
         <item>com.crdroid.device.DeviceSettings.TouchKeyHandler</item>
     </string-array>
+
+    <!-- Whether device has physical tri state switch -->
+    <bool name="config_hasAlertSlider">true</bool>
 </resources>
